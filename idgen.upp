@@ -1,0 +1,11 @@
+description "id-maker\377";
+
+uses
+	utilfuncs;
+
+file
+	idgen.h;
+
+mainconfig
+	"" = "";
+
